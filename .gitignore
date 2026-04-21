@@ -1,0 +1,5 @@
+target/
+.claude/
+config.toml
+state.json
+*.log
