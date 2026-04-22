@@ -1,3 +1,5 @@
+⚠️ This repository has been archived. Development has moved to https://github.com/lexosi/screenpipe-macro
+
 # screenpipe-assistant
 
 A background process that monitors [Screenpipe](https://github.com/mediar-ai/screenpipe)'s SQLite database for clipboard events originating from Windows Terminal, sends the content to Claude for analysis, and delivers the response to a Telegram bot.
